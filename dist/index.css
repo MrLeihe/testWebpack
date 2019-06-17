@@ -1,0 +1,17 @@
+#main {
+  width: 600px;
+  margin: 0 auto;
+}
+#main .superman {
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  background: url(fe2738737f1d34eb8b6e90d40cbf888a.gif);
+}
+#main .webpack {
+  width: 600px;
+  height: 240px;
+  margin: 0 auto;
+  background: url(92c06f28f6134b37e621b15cd9edef60.png);
+}
