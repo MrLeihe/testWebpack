@@ -14,7 +14,7 @@
   "author": "stone <18617169508@163.com>",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.6.10"
   },
   "devDependencies": {
